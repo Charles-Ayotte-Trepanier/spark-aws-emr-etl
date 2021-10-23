@@ -1,4 +1,4 @@
-# Project 1: Data Modeling with Postgres
+# Project 4: Data Lake ETL with EMR and Spark
 
 ## Summary of the project
 ### Inroduction
